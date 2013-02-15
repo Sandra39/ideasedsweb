@@ -7,6 +7,7 @@ public class Cliente {
 		
 		
 		//esto es constructor
+		//MODIFICACION 10:40 h
 		public Cliente ( String nombreC, int saldoC ){
 			nombre = nombreC;
 			saldo = saldoC;
